@@ -2,7 +2,7 @@
 
 import React from 'react';
 
-import TsGreeting from '../../../client/components/TsGreeting';
+import TsGreeting from '../../../client/components/TsGreeting.tsx';
 
 describe('cypress-react-unit-test', () => {
   it('shows greeting', () => {
